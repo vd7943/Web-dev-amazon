@@ -1,5 +1,6 @@
 # Web-dev-amazon
 This is an amzaon website clone.
+<br>
 Author- Vishesh Manoj Dalmia
 
 Overview:
@@ -13,7 +14,8 @@ Product detail pages
 Responsive design for different screen sizes
 
 Technologies Used:
-HTML5,
+HTML5
+<br>
 CSS3
 
 Contributing:
