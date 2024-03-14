@@ -14,6 +14,7 @@ Product detail pages
 Responsive design for different screen sizes
 
 Technologies Used:
+<br>
 HTML5
 <br>
 CSS3
